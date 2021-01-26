@@ -1,0 +1,11 @@
+.btn {
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 50%;
+    padding: 5px 10px;
+}
+
+.done {
+    text-decoration: line-through;
+}
